@@ -1,6 +1,5 @@
 # Hi there, I'm Mohammad Hashim 👋
 
-![git2](https://github.com/mohammadhashim135/mohammadhashim135/assets/158157731/94b72abf-66a0-45d4-8ed3-38e312d716ef)
 
 I'm a passionate Developer, AI/ML, and Robotics enthusiast, specializing in C, C++, Python, JavaScript, HTML, CSS, and MySQL. I love working on innovative projects and am always looking to collaborate on exciting ventures. Here’s a bit more about me:
 
@@ -27,17 +26,15 @@ I'm a passionate Developer, AI/ML, and Robotics enthusiast, specializing in C, C
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhashim135&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-
 ## 📫 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mohammad-hashim-07ab362a6"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/bytemazehashim/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.youtube.com/@ByteMazeHashim"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
- <a href="https://www.twitter.com/ByteMazeHashim"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-
-  
+  <a href="https://www.twitter.com/ByteMazeHashim"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
+
 
 ---
 
