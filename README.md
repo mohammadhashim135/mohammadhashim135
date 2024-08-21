@@ -29,11 +29,20 @@ I'm a passionate Developer, AI/ML, and Robotics enthusiast, specializing in C, C
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohammad-hashim-07ab362a6"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/bytemazehashim/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@ByteMazeHashim"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://www.twitter.com/ByteMazeHashim"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mohammad-hashim-07ab362a6">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/code.resonance/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.youtube.com/@coderesonance">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://www.twitter.com/coderesonance">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
 </p>
+
 
 
 ---
