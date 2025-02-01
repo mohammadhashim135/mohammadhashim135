@@ -32,7 +32,7 @@ I'm a passionate Developer, AI/ML, and Robotics enthusiast, specializing in C, C
   <a href="https://www.linkedin.com/in/mohammad-hashim-07ab362a6">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/code.resonance/">
+  <a href="https://www.instagram.com/mohammadhashim.exe/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.youtube.com/@coderesonance">
