@@ -29,6 +29,9 @@ I love working on innovative projects and always look forward to collaborating o
   <a href="https://www.instagram.com/mohammadhashim.exe/">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
+  <a href="https://www.youtube.com/@coderesonance">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="30" />
+  </a>
   <a href="https://www.twitter.com/coderesonance">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
   </a>
