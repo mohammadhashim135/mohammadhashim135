@@ -1,4 +1,4 @@
-# Hi there, I'm Mohammad Hashim 👋  
+# Hi there, I'm Mohammad Hashim 🤝👋  
 
 I'm a passionate **Developer, Cybersecurity Enthusiast, and Robotics Learner**.  
 I love working on innovative projects and always look forward to collaborating on exciting ventures.  
@@ -24,16 +24,16 @@ I love working on innovative projects and always look forward to collaborating o
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mohammad-hashim-07ab362a6">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/mohammadhashim.exe/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
   <a href="https://www.youtube.com/@coderesonance">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white" alt="YouTube"/>
+    <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" />
   </a>
   <a href="https://www.twitter.com/coderesonance">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
   </a>
 </p>
 
