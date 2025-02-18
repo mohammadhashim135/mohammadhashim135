@@ -1,4 +1,4 @@
-# Hi there, I'm Mohammad Hashim 🤝👋  
+# Hi there, I'm Mohammad Hashim 👋  
 
 I'm a passionate **Developer, Cybersecurity Enthusiast, and Robotics Learner**.  
 I love working on innovative projects and always look forward to collaborating on exciting ventures.  
@@ -9,7 +9,7 @@ I love working on innovative projects and always look forward to collaborating o
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,c,python,flask,django,linux,flutter,react,nodejs,nextjs,mysql,html,css,js,tensorflow,pytorch,aws,azure" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,c,python,flask,django,linux,flutter,react,nodejs,nextjs,mysql,html,css,js,tensorflow,pytorch,arduino,aws,azure" />
   </a>
 </p>
 
@@ -28,9 +28,6 @@ I love working on innovative projects and always look forward to collaborating o
   </a>
   <a href="https://www.instagram.com/mohammadhashim.exe/">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-  </a>
-  <a href="https://www.youtube.com/@coderesonance">
-    <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" />
   </a>
   <a href="https://www.twitter.com/coderesonance">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
