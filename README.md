@@ -9,15 +9,7 @@ I'm a passionate Developer, AI/ML, and Robotics enthusiast, specializing in C, C
 
 ## 🛠️ Skills and Tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=java,cpp,c,python,flask,django,linux,flutter,react,nodejs,nextjs,oracle,mysql,html,css,js,tensorflow,pytorch,pandas,numpy,scikit-learn,aws,azure" /> </a> </p>
 
 ## 📈 GitHub Stats
 
@@ -28,20 +20,9 @@ I'm a passionate Developer, AI/ML, and Robotics enthusiast, specializing in C, C
 
 ## 📫 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohammad-hashim-07ab362a6">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/mohammadhashim.exe/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.youtube.com/@coderesonance">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://www.twitter.com/coderesonance">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-</p>
+<p align="left"> <a href="https://www.linkedin.com/in/mohammad-hashim-07ab362a6"> <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /> </a> <a href="https://www.instagram.com/mohammadhashim.exe/"> <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /> </a> <a href="https://www.youtube.com/@coderesonance"> <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" /> </a> <a href="https://www.twitter.com/coderesonance"> <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /> </a> </p>
+
+
 
 
 
