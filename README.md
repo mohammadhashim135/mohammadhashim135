@@ -30,10 +30,10 @@ I love working on innovative projects and always look forward to collaborating o
     <img src="https://img.icons8.com/clouds/100/000000/instagram.png" alt="Instagram" />
   </a>
   <a href="https://www.youtube.com/@coderesonance">
-    <img src="https://img.icons8.com/clouds/100/000000/youtube.png" alt="YouTube" width="40" height="40" /> 
+    <img src="https://img.icons8.com/clouds/100/000000/youtube.png" alt="YouTube"  /> 
   </a>
   <a href="https://www.twitter.com/coderesonance">
-    <img src="https://img.icons8.com/clouds/100/000000/twitter.png" alt="Twitter" />
+    <img src="https://img.icons8.com/clouds/100/000000/x.png" alt="Twitter" />
   </a>
 </p>
 
