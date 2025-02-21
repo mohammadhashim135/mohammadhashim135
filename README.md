@@ -24,18 +24,19 @@ I love working on innovative projects and always look forward to collaborating o
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mohammad-hashim-07ab362a6">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <img src="https://img.icons8.com/clouds/100/000000/linkedin.png" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/mohammadhashim.exe/">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+    <img src="https://img.icons8.com/clouds/100/000000/instagram.png" alt="Instagram" />
   </a>
   <a href="https://www.youtube.com/@coderesonance">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="40" height="40" /> 
+    <img src="https://img.icons8.com/clouds/100/000000/youtube.png" alt="YouTube" width="40" height="40" /> 
   </a>
   <a href="https://www.twitter.com/coderesonance">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
+    <img src="https://img.icons8.com/clouds/100/000000/twitter.png" alt="Twitter" />
   </a>
 </p>
+
 
 ---
 
