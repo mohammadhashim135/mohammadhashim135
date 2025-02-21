@@ -5,7 +5,7 @@
 I love working on innovative projects and always look forward to collaborating on exciting ventures.  
 
 
-- 📫 You Can reach me @: [hashimmihammad1375@gmail.com](mailto:hashimmihammad1375@gmail.com)  
+- 📫 You Can reach me @: [hashimmihammad1375@gmail.com](mailto:hashimmohammad1375@gmail.com)  
 
 ## 🛠️ Skills and Tools  
 
