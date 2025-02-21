@@ -1,7 +1,9 @@
-# Hi there, I'm Mohammad Hashim 👋  
+<h1 align="center">Hi there <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">,  I'm Mohammad Hashim</h1>
 
-I'm a passionate **Developer, Cybersecurity Enthusiast, and Robotics Learner**.  
+
+<h3>I'm a passionate Software Developer, Cybersecurity Enthusiast, and Robotics Learner. </h3>
 I love working on innovative projects and always look forward to collaborating on exciting ventures.  
+
 
 - 📫 You Can reach me @: [hashimmihammad1375@gmail.com](mailto:hashimmihammad1375@gmail.com)  
 
