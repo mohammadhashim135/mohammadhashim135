@@ -10,9 +10,11 @@ I love working on innovative projects and always look forward to collaborating o
 ## 🛠️ Skills and Tools  
 
 <p align="center">
+  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,cpp,c,python,flask,django,linux,flutter,react,nodejs,nextjs,mongodb,mysql,html,css,js,tensorflow,pytorch,arduino,aws,azure" />
   </a>
+  
 </p>
 
 ## 📈 GitHub Stats  
