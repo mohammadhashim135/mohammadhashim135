@@ -1,5 +1,7 @@
 <h1 align="center">Hi there <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">,  I'm Mohammad Hashim.</h1>
-
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=mohammadhashim135&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 <h3>I'm a passionate Software Developer, Cybersecurity Enthusiast, and Robotics Learner. </h3>
 I love working on innovative projects and always look forward to collaborating on exciting ventures.  
@@ -17,13 +19,17 @@ I love working on innovative projects and always look forward to collaborating o
   
 </p>
 
-## 📈 GitHub Stats  
+## 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadhashim135&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhashim135&layout=compact&theme=radical" alt="Top Languages" />
+<div align="center">
 
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=mohammadhashim135&count_private=true&show_icons=true&theme=radical&hide_title=true&border_radius=10&hide_border=false" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhashim135&layout=compact&langs_count=6&theme=radical&border_radius=10&hide_border=false"/>
+<br>
+<img src="https://streak-stats.demolab.com/?user=mohammadhashim135&theme=radical&hide_border=false&border_radius=10" width="40%" />
+<img src="https://github-profile-trophy.vercel.app/?username=mohammadhashim135&theme=radical&no-frame=false&row=1&column=6&margin-w=8" width="60%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadhashim135&theme=tokyo-night&hide_border=false&border_radius=15" />
+</div>
 
 ## 📫 Connect with Me  
 
