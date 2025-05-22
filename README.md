@@ -9,7 +9,7 @@ I love working on innovative projects and always look forward to collaborating o
 
 
 - 📫 You Can reach me @: [hashimmohammad1375@gmail.com](mailto:hashimmohammad1375@gmail.com)  
-
+----
 ## 🛠️ Skills and Tools  
 
 <p align="center">
@@ -20,6 +20,7 @@ I love working on innovative projects and always look forward to collaborating o
   
 </p>
 
+----
 ## 📈 GitHub Stats
 
 <div align="center">
