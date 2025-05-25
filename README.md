@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">,  I'm Mohammad Hashim.</h1>
+<h1 align="center">Hii <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">,  I'm Mohammad Hashim.</h1>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mohammadhashim135&label=Profile%20views&color=b57edc&style=flat" alt="Profile Views" />
 </p>
@@ -42,11 +42,11 @@ I love working on innovative projects and always look forward to collaborating o
   <a href="https://www.instagram.com/mohammadhashim.exe/">
     <img src="https://img.icons8.com/clouds/100/000000/instagram.png" alt="Instagram" />
   </a>
-  <a href="https://www.youtube.com/@coderesonance">
+  <a href="https://www.youtube.com/@Stackrs">
     <img src="https://img.icons8.com/clouds/100/000000/youtube.png" alt="YouTube"  /> 
   </a>
-  <a href="https://www.twitter.com/coderesonance">
-    <img src="https://img.icons8.com/clouds/100/000000/x.png" alt="Twitter" />
+  <a href="https://www.twitter.com/stackrslearn">
+    <img src="https://img.icons8.com/clouds/100/000000/x.png" alt="Stackrs" />
   </a>
 </p>
 
