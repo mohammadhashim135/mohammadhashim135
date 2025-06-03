@@ -2,7 +2,6 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mohammadhashim135&label=Profile%20views&color=b57edc&style=flat" alt="Profile Views" />
 </p>
-
 <h3>I'm a passionate Software Developer, Cybersecurity Enthusiast, and Robotics Learner. </h3>
 I love working on Innovative projects and always look forward to collaborating on exciting ventures.  
 
