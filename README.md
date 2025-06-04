@@ -20,7 +20,6 @@ I love working on Innovative projects and always look forward to collaborating o
 
 ----
 ## 📈 GitHub Stats
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=mohammadhashim135&count_private=true&show_icons=true&theme=radical&hide_title=true&border_radius=10&hide_border=false" /> 
