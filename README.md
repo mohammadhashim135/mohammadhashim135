@@ -33,6 +33,7 @@ I love working on Innovative projects and always look forward to collaborating o
 </div>
 
 ## 📫 Connect with Me  
+
 <p align="left">
   <a href="https://www.linkedin.com/in/mohammad-hashim-07ab362a6">
     <img src="https://img.icons8.com/clouds/100/000000/linkedin.png" alt="LinkedIn" />
