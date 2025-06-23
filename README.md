@@ -9,7 +9,6 @@ I love working on Innovative projects and always look forward to collaborating o
 ----
 
 ## 🛠️ Skills and Tools  
-
 <p align="center">
   
   <a href="https://skillicons.dev">
@@ -34,7 +33,7 @@ I love working on Innovative projects and always look forward to collaborating o
 
 </div>
 
-## 📫 Connect with Me  
+## 📫 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mohammad-hashim-07ab362a6">
