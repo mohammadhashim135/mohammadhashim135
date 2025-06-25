@@ -35,7 +35,7 @@ I love working on Innovative projects and always look forward to collaborating o
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohammad-hashim-07ab362a6">
+  <a href="https://www.linkedin.com/in/mohammadhashim137">
     <img src="https://img.icons8.com/clouds/100/000000/linkedin.png" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/mohammadhashim.exe/">
@@ -48,6 +48,7 @@ I love working on Innovative projects and always look forward to collaborating o
     <img src="https://img.icons8.com/clouds/100/000000/x.png" alt="Stackrs" />
   </a>
 </p>
+
 ----
 
 ⭐️ From [Mohammad Hashim](https://github.com/mohammadhashim135)  
