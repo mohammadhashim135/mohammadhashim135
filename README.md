@@ -5,7 +5,7 @@
 <h3>I'm a passionate Software Developer, Cybersecurity Enthusiast, and Robotics Learner. </h3>
 I love working on Innovative projects and always look forward to collaborating on exciting ventures.  
 
-- 📫 You Can reach me @: [hashimmohammad1375@gmail.com](mailto:hashimmohammad1375@gmail.com)  
+- 📫 You Can reach me @: [hashimmohammad1375@gmail.com](mailto:hashimmohammad1375@gmail.com)
 ----
 
 ## 🛠️ Skills and Tools  
@@ -15,8 +15,8 @@ I love working on Innovative projects and always look forward to collaborating o
   </a>
   
 </p>
-
 ----
+
 ## 📈 GitHub Stats
 
 <div align="center">
