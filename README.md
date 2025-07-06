@@ -1,7 +1,9 @@
 <h1 align="center">Hii <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">,  I'm Mohammad Hashim.</h1>
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mohammadhashim135&label=Profile%20views&color=b57edc&style=flat" alt="Profile Views" />
 </p>
+
 <h3>I'm a passionate Software Developer, Cybersecurity Enthusiast, and Robotics Learner. </h3>
 I love working on Innovative projects and always look forward to collaborating on exciting ventures.  
 
