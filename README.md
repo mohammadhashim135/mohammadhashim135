@@ -31,7 +31,6 @@ I love working on Innovative projects and always look forward to collaborating o
 <img src="https://github-profile-trophy.vercel.app/?username=mohammadhashim135&theme=radical&no-frame=false&row=1&column=6&margin-w=8" width="60%" />
 -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadhashim135&theme=tokyo-night&hide_border=false&border_radius=15" />
-
 </div>
 
 ## 📫 Connect with Me
