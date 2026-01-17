@@ -1,12 +1,12 @@
-<h1 align="center">Hii <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">,  I'm Mohammad Hashim.</h1>
+<h1 align="center">Hi <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">,  I'm Mohammad Hashim.</h1>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=mohammadhashim135&label=Profile%20views&color=b57edc&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mohammadhashim135&label=Profile%20views&color=0A192F&style=flat" alt="Profile Views" />
 </p>
 
-<h3>I'm a passionate Software Developer, Bug Bounty Hunter and AI Engineer.</h3>
+<h3>Software Engineer | Problem Solver</h3>
+I enjoy building practical projects and collaborating on meaningful software solutions.
 
-I love working on Innovative projects and always look forward to collaborating on exciting ventures. 
 
 - 📫 You Can reach me @: [hashimmohammad1375@gmail.com](mailto:hashimmohammad1375@gmail.com)
   
@@ -15,7 +15,7 @@ I love working on Innovative projects and always look forward to collaborating o
 ## 🛠️ Skills and Tools  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,cpp,c,flask,django,linux,flutter,react,nodejs,nextjs,mongodb,mysql,html,firebase,css,js,tensorflow,pytorch,arduino,aws,azure" />
+    <img src="https://skillicons.dev/icons?i=java,python,cpp,c,django,linux,flutter,react,nodejs,nextjs,typescript,mongodb,mysql,html,firebase,css,js,tensorflow,pytorch,arduino,aws,azure" />
   </a>
 </p>
 
@@ -23,9 +23,19 @@ I love working on Innovative projects and always look forward to collaborating o
 
 ## 📈 GitHub Stats
 
+
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohammadhashim135&count_private=true&show_icons=true&theme=radical&hide_title=true&border_radius=10&hide_border=false" /> 
+![](https://github-readme-stats.vercel.app/api?username=mohammadhashim135&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mohammadhashim135&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhashim135&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
+<br>
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=mohammadhashim135&count_private=true&show_icons=true&theme=radical&hide_title=true&border_radius=10&hide_border=false" /> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhashim135&layout=compact&langs_count=6&theme=radical&border_radius=10&hide_border=false"/>
 <br>
 <!--
@@ -55,3 +65,7 @@ I love working on Innovative projects and always look forward to collaborating o
 ----
 
 ⭐️ From [Mohammad Hashim](https://github.com/mohammadhashim135)  
+
+
+
+
