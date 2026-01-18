@@ -23,17 +23,10 @@ I enjoy building practical projects and collaborating on meaningful software sol
 
 ## 📈 GitHub Stats
 
-
-
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=mohammadhashim135&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mohammadhashim135&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhashim135&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
-<br>
+<!-- <br> -->
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=mohammadhashim135&count_private=true&show_icons=true&theme=radical&hide_title=true&border_radius=10&hide_border=false" /> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhashim135&layout=compact&langs_count=6&theme=radical&border_radius=10&hide_border=false"/>
