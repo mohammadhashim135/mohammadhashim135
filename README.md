@@ -26,16 +26,18 @@ I enjoy building practical projects and collaborating on meaningful software sol
 <div align="center">
 
 
-<!-- <br> -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadhashim135&theme=tokyo-night&hide_border=true&border_radius=15" />
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=mohammadhashim135&count_private=true&show_icons=true&theme=radical&hide_title=true&border_radius=10&hide_border=false" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhashim135&layout=compact&langs_count=6&theme=radical&border_radius=10&hide_border=false"/>
-<br>
-<!--
-<img src="https://streak-stats.demolab.com/?user=mohammadhashim135&theme=radical&hide_border=false&border_radius=10" width="40%" /> 
-<img src="https://github-profile-trophy.vercel.app/?username=mohammadhashim135&theme=radical&no-frame=false&row=1&column=6&margin-w=8" width="60%" />
--->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadhashim135&theme=tokyo-night&hide_border=false&border_radius=15" />
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=mohammadhashim135&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=mohammadhashim135&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhashim135&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
+
+
 </div>
 
 ## 📫 Connect with Me
