@@ -33,9 +33,9 @@ I enjoy building practical projects and collaborating on meaningful software sol
 <img src="https://github-readme-stats.vercel.app/api?username=mohammadhashim135&show_icons=true&theme=tokyonight&hide_border=true" />
 <img src="https://streak-stats.demolab.com?user=mohammadhashim135&theme=tokyonight&hide_border=true" />
 
-<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhashim135&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhashim135&layout=compact&theme=tokyonight&hide_border=true" />
 
 
 </div>
